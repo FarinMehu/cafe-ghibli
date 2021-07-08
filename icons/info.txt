@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Alice-Regular
+font link: https://fonts.google.com/specimen/Alice
+font author: Ksenia Erulevich
+font author site: http://www.cyreal.org/
+
+
+icon designer: Agne Alesiute
+icon designer link: /grrrauf
+        
+{"bg":"#955F39","icon":"#142A19","font":"#ffffff","slogan":"#ffffff"}
+      
