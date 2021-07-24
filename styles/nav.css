@@ -1,0 +1,11 @@
+/* navbar */
+nav{
+    /* display: flex; */
+}
+.logo{
+    text-decoration: none;
+}
+.nav-link{
+    display: flex;
+}
+/* end navbar */
