@@ -1,8 +1,29 @@
+/* navbar style  */
+nav{
+    height: 100px;
+}
+
+.nav-logo-font{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 900;
+    font-size: 30px;
+}
 .nav-url-font{
     font-family: 'Roboto Slab', serif;
     font-weight: 700;
 }
-.nav-logo-font{
+
+.sec-height{
+    height: 700px;
+}
+
+.welcome-box{
+    background-color: tomato;
+   
+}
+
+h1{
     font-family: 'Dancing Script', cursive;
     font-weight: 900;
+    font-size: 40px;
 }
