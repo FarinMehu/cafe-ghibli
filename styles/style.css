@@ -14,16 +14,27 @@ nav{
 }
 
 .sec-height{
-    height: 700px;
+    height: 500px;
 }
 
 .welcome-box{
-    background-color: tomato;
-   
+    background-color: #f0918c;
 }
 
 h1{
     font-family: 'Dancing Script', cursive;
     font-weight: 900;
     font-size: 40px;
+    color: white;
+}
+
+.text p{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.btn-ghibli{
+    color: #f0918c;
+    background-color: white;
 }
